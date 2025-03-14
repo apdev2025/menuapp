@@ -7,7 +7,7 @@ def load_dishes_from_csv(filepath):
     """Loads dishes and their ingredients from a given CSV file.
 
     Args:
-        filepath: The path to the CSV file.
+        filepath: The path to provided CSV file.
 
     Returns:
         A dictionary where keys are dish names and values are lists of ingredients.
