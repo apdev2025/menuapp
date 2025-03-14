@@ -45,7 +45,7 @@ def load_dishes_from_csv(filepath):
 
 
 def generate_random_menu(dishes, num_days=5):
-    """Generates a random menu for a specified number of days without duplicates.
+    """Generates random menu for a specified number of days without duplicates.
 
     Args:
         dishes: A dictionary of dishes and their ingredients.
