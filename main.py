@@ -4,7 +4,7 @@ import os
 from collections import Counter
 
 def load_dishes_from_csv(filepath):
-    """Loads dishes and their ingredients from a given CSV file.
+    """Loads dishes and their ingredients from a user-provided CSV file.
 
     Args:
         filepath: The path to provided CSV file.
